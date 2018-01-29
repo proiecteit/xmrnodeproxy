@@ -13,4 +13,6 @@ fi
 docker build -t proiecteit/xmrnodeproxy:${TAG} .
 
 # Push
+docker login
 docker push proiecteit/xmrnodeproxy:${TAG}
+docker logout
