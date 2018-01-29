@@ -15,7 +15,7 @@
   ],
   "listeningPorts": [
     {
-      "port": 5555,
+      "port": 80,
       "ssl": false,
       "diff": 5000,
       "coin": "xmr"
