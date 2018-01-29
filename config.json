@@ -17,7 +17,7 @@
     {
       "port": 80,
       "ssl": false,
-      "diff": 5000,
+      "diff": 50,
       "coin": "xmr"
     }
   ],
